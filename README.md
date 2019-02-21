@@ -9,7 +9,7 @@ AS No Pays-CTEUpdate.sql - SQL code used in the tool.
 Pass Through Tool VBA Code - Complete code for the VBA Tool, includes SQL implementation.
 
 ## Quick View of UI
-![asnopaytool](../master/AS%20No%20Pay.PNG)
+![asnopaytool](../master/AS%20No%20Pay.png)
 
 ## Overview of Operating Reserve and Regulation Ancillary Services No-Pay/Non-Compliance
 ### Operating Reserve (Spin/Non-Spin) 
