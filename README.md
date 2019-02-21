@@ -1,5 +1,5 @@
 # Ancillary Services No Pay Pass Through Tool
-This easy to use tool was created to be able to automatically calculate and pass Ancillary Service No-Pay/Non-Compliance penalties to third-party power plants for charges that they were specifically liable for. Our team did not charge the third-party the entire penalty, instead I used raw CAISO bill determinant data and rebuilt the CAISO's Ancillary Services penalty calculations for the actions that third-party were solely responsible for.
+This easy to use tool was created to automatically calculate and pass Ancillary Service No-Pay/Non-Compliance penalties to third-party power plants. Our team did not charge the third-party the entire penalty, instead I used raw CAISO bill determinant data to rebuild the CAISO's Ancillary Services penalty calculations only for the penalizable actions that the third-party was solely responsible for.
 
 The tool was written with Excel VBA, due to the department analysts' comfort with Excel, and the data was extracted and transformed from an Oracle database with SQL.
 
